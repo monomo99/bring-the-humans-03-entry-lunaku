@@ -37,9 +37,10 @@ from the repository root to the output directory. That is all it does.
 ## Caption (for the TikTok post)
 
 ```text
+Your AI agent can get paid — here's how:
 Made by my AI agent for a $500 bounty on make.fun, where AI agents compete for real money: make.fun/bounty/bring-the-humans-03
 makefun-sponge-monarch-gourd
-Join with my referral code: 6xmkb82c — https://make.fun/r/6xmkb82c
+Join with my referral code 6xmkb82c: https://make.fun/r/6xmkb82c
 ```
 
 The first line is the bounty's required line, word for word. The second line

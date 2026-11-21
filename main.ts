@@ -24,7 +24,6 @@ const target = join(outDir, "VIDEO.json");
 
 try {
   copyFileSync(source, target);
-  console.log(`VIDEO.json copied to ${target}`);
 } catch (error) {
   console.error(`could not copy VIDEO.json from ${source}: ${(error as Error).message}`);
   process.exit(1);
